@@ -35,40 +35,40 @@ http://127.0.0.1:6878/ace/getstream?id=aa8f826da70e27a26b29c7b32402f17e8a67a8b0
 http://127.0.0.1:6878/ace/getstream?id=535394f62a810bc5aeb25be75ea5ff7d03e070b2
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M. LaLiga 6 1080
 http://127.0.0.1:6878/ace/getstream?id=c896d37778f9e43549a788fc22206a655895b51b
-#EXTINF:-1 group-title="LaLiga TV Hypermotion" tvg-id="LaLiga TV Hypermotion" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/bd/9b/liga-smartbank-segunda-division_xhswjieo133q103y74ktzlvz9.jpg?t=911133130" ,LaLiga Smartbank 1080
+#EXTINF:-1 group-title="LaLiga TV Hypermotion" tvg-id="LaLiga TV Hypermotion" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/bd/9b/liga-smartbank-segunda-division_xhswjieo133q103y74ktzlvz9.jpg?t=911133130" ,LaLiga TV Hypermotion 1080
 http://127.0.0.1:6878/ace/getstream?id=4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title="LaLiga TV Hypermotion" tvg-id="LaLiga TV Hypermotion" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/bd/9b/liga-smartbank-segunda-division_xhswjieo133q103y74ktzlvz9.jpg?t=911133130" ,LaLiga Smartbank 720
+#EXTINF:-1 group-title="LaLiga TV Hypermotion" tvg-id="LaLiga TV Hypermotion" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/bd/9b/liga-smartbank-segunda-division_xhswjieo133q103y74ktzlvz9.jpg?t=911133130" ,LaLiga TV Hypermotion 720
 http://127.0.0.1:6878/ace/getstream?id=06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV 2 HD" tvg-logo="https://assets.laliga.com/assets/static/logospage/laliga-santander-v-negativo-monocolor-16-9.jpg" ,LaLiga Smartbank 2 1080
+#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga TV Hypermotion 2" tvg-logo="https://assets.laliga.com/assets/static/logospage/laliga-santander-v-negativo-monocolor-16-9.jpg" ,LaLiga TV Hypermotion 2 1080
 http://127.0.0.1:6878/ace/getstream?id=d81b4f2f3fde433539c097b2edc9b587ca47b087
-#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV 2 HD" tvg-logo="https://assets.laliga.com/assets/static/logospage/laliga-santander-v-negativo-monocolor-16-9.jpg" ,LaLiga Smartbank 2 720
+#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga TV Hypermotion 2" tvg-logo="https://assets.laliga.com/assets/static/logospage/laliga-santander-v-negativo-monocolor-16-9.jpg" ,LaLiga TV Hypermotion 2 720
 http://127.0.0.1:6878/ace/getstream?id=2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
-#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/bd/9b/liga-smartbank-segunda-division_xhswjieo133q103y74ktzlvz9.jpg?t=911133130" ,LaLiga Smartbank 3
+#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga TV Hypermotion" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/bd/9b/liga-smartbank-segunda-division_xhswjieo133q103y74ktzlvz9.jpg?t=911133130" ,LaLiga TV Hypermotion 3
 http://127.0.0.1:6878/ace/getstream?id=59ba45b79152e4599144177b234f6491fc19db53
-#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/bd/9b/liga-smartbank-segunda-division_xhswjieo133q103y74ktzlvz9.jpg?t=911133130" ,LaLiga Smartbank 4
+#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga TV Hypermotion" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/bd/9b/liga-smartbank-segunda-division_xhswjieo133q103y74ktzlvz9.jpg?t=911133130" ,LaLiga TV Hypermotion 4
 http://127.0.0.1:6878/ace/getstream?id=2cacf21476b036e319bcb7c7e747766e6ccc082e
-#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/bd/9b/liga-smartbank-segunda-division_xhswjieo133q103y74ktzlvz9.jpg?t=911133130" ,LaLiga Smartbank 5
+#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga TV Hypermotion" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/bd/9b/liga-smartbank-segunda-division_xhswjieo133q103y74ktzlvz9.jpg?t=911133130" ,LaLiga TV Hypermotion 5
 http://127.0.0.1:6878/ace/getstream?id=a1146358aa50c99c887108b17f62f9264186a16a
-#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/bd/9b/liga-smartbank-segunda-division_xhswjieo133q103y74ktzlvz9.jpg?t=911133130" ,LaLiga Smartbank 6
+#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga TV Hypermotion" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/bd/9b/liga-smartbank-segunda-division_xhswjieo133q103y74ktzlvz9.jpg?t=911133130" ,LaLiga TV Hypermotion 6
 http://127.0.0.1:6878/ace/getstream?id=7a9bb1b9cccb759c44ed84f3c1283922e6854670
-#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/bd/9b/liga-smartbank-segunda-division_xhswjieo133q103y74ktzlvz9.jpg?t=911133130" ,LaLiga Smartbank 7
+#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga TV Hypermotion" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/bd/9b/liga-smartbank-segunda-division_xhswjieo133q103y74ktzlvz9.jpg?t=911133130" ,LaLiga TV Hypermotion 7
 http://127.0.0.1:6878/ace/getstream?id=446e73a22582921393b020ed08b768ad8e14d754
-#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/bd/9b/liga-smartbank-segunda-division_xhswjieo133q103y74ktzlvz9.jpg?t=911133130" ,LaLiga Smartbank 8
+#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga TV Hypermotion" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/bd/9b/liga-smartbank-segunda-division_xhswjieo133q103y74ktzlvz9.jpg?t=911133130" ,LaLiga TV Hypermotion 8
 http://127.0.0.1:6878/ace/getstream?id=4d52fc1994fe927702aeb7bc8778e2f23b1260e2
 #EXTINF:-1 group-title="M+ LaLiga TV BAR" tvg-id="LALIGATV BAR" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-laligatv-bar-2505.png" ,LaLiga Tv Bar 1080
-http://127.0.0.1:6878/ace/getstream?id=ed2a15319345fb0739590faf88d8be4cb1663bf3
+http://127.0.0.1:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M.L. Campeones 1080 MultiAudio
-http://127.0.0.1:6878/ace/getstream?id=a4ee6f9590351d2c88c416f9962af82c7e1ce816
+http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M.L. Campeones 1080 MultiAudio
 http://127.0.0.1:6878/ace/getstream?id=045718bad2ddb4f03b1a420754a97a23ad8b493b
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M.L. Campeones 720
-http://127.0.0.1:6878/ace/getstream?id=90beb42e9e276854348bc91a9ff3c3e46c617495
+http://127.0.0.1:6878/ace/getstream?id=e2e2aca792aae5da19995ac516b1d620531bd49c
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png" ,M.L. Campeones 2 1080
-http://127.0.0.1:6878/ace/getstream?id=dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
+http://127.0.0.1:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png" ,M.L. Campeones 2 720
-http://127.0.0.1:6878/ace/getstream?id=2d584c7335ff44f97c3cf64947892ef30fde715c
+http://127.0.0.1:6878/ace/getstream?id=6753492c1908274c268a1b28e2a054a0ff8f86f9
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png" ,M.L. Campeones 3 1080
-http://127.0.0.1:6878/ace/getstream?id=ecf4ec41200785812c140e3d1050b412f1519fa7
+http://127.0.0.1:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png" ,M.L. Campeones 3 720
 http://127.0.0.1:6878/ace/getstream?id=d59fe9978eed49f256b312a60671b5bce43d3f24
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON4" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-4-1549.png" ,M.L. Campeones 4 SD
@@ -109,16 +109,16 @@ http://127.0.0.1:6878/ace/getstream?id=b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
 http://127.0.0.1:6878/ace/getstream?id=8587ed8ac36ac477e1d4176d3159a38bd154d4ce
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ GOLF HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-golf-368.png" ,M. Golf 1080
 http://127.0.0.1:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
-#EXTINF:-1 group-title="EuroSport" tvg-id="EUROSPORT1HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png" ,EuroSport 1 1080
+#EXTINF:-1 group-title="EuroSport" tvg-id="EUROSPORT 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png" ,EuroSport 1 1080
 http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title="EuroSport" tvg-id="EUROSPORT2HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-2-616.png" ,EuroSport 2 1080
+#EXTINF:-1 group-title="EuroSport" tvg-id="EUROSPORT 2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-2-616.png" ,EuroSport 2 1080
 http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LaLiga 1080 MultiAudio
-http://127.0.0.1:6878/ace/getstream?id=7264961f63dc9dc6ef7acee7371f7a76b6a02061
+http://127.0.0.1:6878/ace/getstream?id=1960a9be8ae9e8c755330218eac4c5805466290a
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LaLiga 1080 MultiAudio
-http://127.0.0.1:6878/ace/getstream?id=0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
+http://127.0.0.1:6878/ace/getstream?id=75251ba975132ec9a202806ba5bf606e87280c96
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LaLiga 720
-http://127.0.0.1:6878/ace/getstream?id=05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6
+http://127.0.0.1:6878/ace/getstream?id=a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LaLiga 2 1080 MultiAudio
 http://127.0.0.1:6878/ace/getstream?id=93d663e92a93845b11c9831885646fa39ba1ed66
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LaLiga 2 720 MultiAudio
