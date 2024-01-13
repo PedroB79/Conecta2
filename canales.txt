@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
-#EXTINF:-1 group-title="M+ Supercopa" tvg-id="M+ SUPERCOPA" tvg-logo="https://www.movistarplus.es/guiamovil/MLIG2" ,M. SUPERCOPA
+#EXTINF:-1 group-title="M+ Supercopa" tvg-id="M+ SUPERCOPA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" ,M. SUPERCOPA
 http://127.0.0.1:6878/ace/getstream?id=8ba764f6a3bce6eae87ec71208fad1aa3a20528d
 #EXTINF:-1 group-title="M+ Supercopa" tvg-id="M+ SUPERCOPA" tvg-logo="https://www.movistarplus.es/guiamovil/MLIG2" ,M. SUPERCOPA Multiaudio
 http://127.0.0.1:6878/ace/getstream?id=3a4c8ac955d451bf3c29b45256e74aa0ea82d281
